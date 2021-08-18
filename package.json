@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-janalytics",
+  "name": "cordova-plugin-janalytics-google-play",
   "version": "1.0.4",
-  "description": "JAnalytics for cordova plugin",
+  "description": "JAnalytics for cordova plugin with Google Play",
   "cordova": {
     "id": "cordova-plugin-janalytics",
     "platforms": [
@@ -15,6 +15,7 @@
   },
   "keywords": [
     "JAnalytics",
+    "google play",
     "analytics",
     "ecosystem:cordova",
     "cordova-ios",
