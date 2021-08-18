@@ -9,7 +9,7 @@
     <preference name="APP_KEY"/><!--应用ID-->
     <preference name="CHANNEL" default="DEFAULT_CHANNEL"/><!--渠道字符串 注意！禁止为纯数字-->
 
-    <dependency id="cordova-plugin-jcore" version="1.0.1"/>
+    <dependency id="cordova-plugin-jcore-google-play" version="1.0.1"/>
 
     <!--cordova引擎版本限制-->
     <engines>
